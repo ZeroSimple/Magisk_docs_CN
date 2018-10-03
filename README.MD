@@ -12,9 +12,9 @@
 
 - [流程图](https://cdn.rawgit.com/topjohnwu/Magisk/7d1082b1cb91db90ed0a29d8b092723fc3d69c58/docs/procedures.html)
 - [Magisk技术细节](details.md)
-    - [Boot Stages](details.md#boot-stages)
-    - [Magic Mount Details](details.md#magic-mount-details)
-    - [Simple Mount Details](details.md#simple-mount-details)
+    - [启动模式](details.md#boot-stages)
+    - [Magic Mount 细节](details.md#magic-mount-details)
+    - [Simple Mount 细节](details.md#simple-mount-details)
 - [可用工具](tools.md)
     - [magiskboot](tools.md#magiskboot)
     - [magiskinit](tools.md#magiskinit)
